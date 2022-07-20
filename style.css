@@ -1,0 +1,59 @@
+h1{
+    text-align:center;
+}
+.search {
+    position: relative;
+    width: 200px;
+}
+
+input {
+    width: 100%;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 14px;
+    position: relative; bottom:23px ;left:1550px
+    
+}
+
+.kk {
+    width: 17px;
+    right: 5px;
+    margin: 0;
+    position: relative; bottom:50px; left:1750px
+}
+ul{
+    position:relative; bottom:50px; left: 1450px
+}
+.a{
+    position: relative; bottom:31px; left: 400px
+}
+.b{
+    position: relative; bottom:68px; left: 500px
+}
+.c{
+    position: relative; bottom:105px; left: 600px
+}
+.d{
+    position: relative; bottom: 142px; left: 748px
+}
+.e{
+    position: relative; bottom: 180px; left: 850px
+}    
+.f{
+    position: relative; bottom: 217px; left: 980px
+}
+.g{
+    position:relative; bottom: 254px; left: 1080px
+}
+.h{
+    position:relative; bottom: 291px; left: 1200px
+}
+.i{
+    position:relative; bottom: 329px; left: 1302px
+}
+.MSB {
+    width: 2000px;
+    height:700px;
+   position:relative; bottom: 300px;
+}
